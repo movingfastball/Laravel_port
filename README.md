@@ -4,11 +4,11 @@
 
 git clone
 
-git clone https://github.com/movingfastball/Laravel_ureserve
+git clone https://github.com/movingfastball/Laravel_port.git
 
 git cloneブランチを指定してダウンロードする場合
 
-git clone -b ブランチ名 https://github.com/movingfastball/Laravel_ureserve
+git clone -b ブランチ名 https://github.com/movingfastball/Laravel_port.git
 
 若しくはzipファイルでダウンロードしてください
 
