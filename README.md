@@ -14,7 +14,7 @@ git clone -b ブランチ名 https://github.com/movingfastball/Laravel_ureserve
 
 ##　インストール方法
 
-- cd laravel_uReserve
+- cd laravel_port
 - composer install
 - npm install
 - npm run dev
@@ -25,8 +25,8 @@ git clone -b ブランチ名 https://github.com/movingfastball/Laravel_ureserve
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=laravel_ureserve
-DB_USERNAME=ureserve
+DB_DATABASE=laravel_port
+DB_USERNAME=port
 DB_PASSWORD=password123
 
 XAMPP/MAMPまたは他の開発環境でDBを起動した後に、
